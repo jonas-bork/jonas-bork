@@ -14,9 +14,11 @@
 - Javascript
 - PHP
 
-# My Github Stats
+# My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperTTPS&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperTTPS&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyperTTP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HyperTTPS/HyperTTPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
