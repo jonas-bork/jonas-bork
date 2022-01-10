@@ -1,4 +1,10 @@
-### Hi there 👋
+### My name is **Jonas** - a.k.a. **HyperTTPS**.
+
+I'm the co-owner of [Bork][website] - an up-and-coming Rocket League Community and Boosting platform.
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperTTPS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HyperTTPS/HyperTTPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://borkofficial.com
