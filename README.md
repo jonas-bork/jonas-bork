@@ -1,10 +1,22 @@
 ### My name is **Jonas** - a.k.a. **HyperTTPS**.
 
-I'm the co-owner of [Bork][website] - an up-and-coming Rocket League Community and Boosting platform.
+# About Me
+- I'm studying computer science.
+- I'm the co-owner of [Bork][bork-website] - an up-and-coming Rocket League Community and Boosting platform.
+- I'm developing Discord bots in python using [pycord][pycord-rep], mainly for [Bork][bork-website].
+
+# Languages and Tools I'm Proficient With
+
+- Python
+    - [Pycord][pycord-rep] Library for Discord Bots.
+- C#
+- Java
+- Javascript
+- PHP
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperTTPS)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyperTTPS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HyperTTPS/HyperTTPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://borkofficial.com
+[bork-website]: https://borkofficial.com
+[pycord-rep]: https://github.com/Pycord-Development/pycord
