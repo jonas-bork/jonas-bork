@@ -9,10 +9,13 @@
 
 - Python
     - [Pycord][pycord-rep] Library for Discord Bots.
-- C#
 - Java
-- Javascript
-- PHP
+- C#
+- Websites
+    - ASP.NET
+    - HTML/CSS/SCSS
+    - Javascript
+    - PHP
 
 # My Stats
 
