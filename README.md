@@ -3,20 +3,20 @@
 - I'm studying computer science.
 - I'm the co-owner of [Bork][bork-website] - an up-and-coming Rocket League Community and Boosting platform.
 - I'm developing the [Bork][bork-website] website.
-- I'm developing Discord bots in python using [pycord][pycord-rep], mainly for [Bork][bork-website].
+- I'm developing Discord bots in C# using [Discord.Net][discord.net-rep], mainly for [Bork][bork-website].
 
 # Languages and Tools I'm Proficient With
 
 - Python
-    - [Pycord][pycord-rep] Library for Discord Bots.
+    - [Pycord][pycord-rep] Library for Creating Discord Bots.
 - Java
 - C#
-- Websites
     - ASP.NET
-    - HTML/CSS/SCSS
-    - Javascript
+    - [Discord.Net][discord.net-rep] Library for Creating Discord Bots
+- HTML/CSS/SCSS
+- Javascript
     - jQuery
-    - PHP
+- PHP
 
 # My Stats
 
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 
 [bork-website]: https://borkofficial.com
 [pycord-rep]: https://github.com/Pycord-Development/pycord
+[discord.net-rep]: https://github.com/discord-net/Discord.Net
