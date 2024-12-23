@@ -1,5 +1,4 @@
 # About Me
-**My name is **Jonas** - a.k.a. **HyperTTPS**.**
 - I'm studying computer science.
 - I'm the co-owner of [Bork][bork-website] which is a Rocket League boosting platform.
 - I'm developing the [Bork website][bork-website].
